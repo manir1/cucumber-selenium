@@ -1,0 +1,10 @@
+.gradle
+.settings
+gradle
+json_output
+junit_xml
+test-output
+.classpath
+.project
+bin
+build
